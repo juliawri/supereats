@@ -3,4 +3,21 @@
 
 .restaurant-1 {
     color: darkgreen;
+    height: 300px;
+    position: relative;
+    width: 300px;
+
+    background: radial-gradient(
+    ellipse at center,
+    rgba(0, 128, 172, 1) 0%,
+    rgba(0, 128, 172, 1) 70%,
+    rgba(0, 128, 172, 0) 70.3%
+  );
+  height: 100%;
+  width: 100%;
+
+  color: white;
+  position: relative;
+  margin: 0;
+  
 }
