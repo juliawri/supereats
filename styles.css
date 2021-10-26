@@ -2,8 +2,24 @@
 /* choose_restaurant.html */
 
 .restaurant-1 {
+    width: 350px;
     text-align: center;
     border: 5px solid darkgreen;
     border-radius: 20px;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   
+}
+
+.restaurant-1-image {
+    width: 500px;
+    height: auto;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    float: left;
+    max-width: 100%;
+    flex-basis: 40%
 }
