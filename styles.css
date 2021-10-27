@@ -1,0 +1,33 @@
+/** HOME PAGE STYLE **/
+
+/** Navigation **/
+
+/** Banner **/
+
+header.masthead{
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 0 ), url(/assets/Image-2.jpg); 
+    background-size: cover;
+}
+
+/* .banner-image{
+    background-image: url(/assets/Image-2.jpg);
+    background-size: cover;
+} */
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 100px;
+    color: white;
+}
+
+.btn{
+    background-color: #F7C501;
+    width: 250px;
+    border-radius: 25px;
+}
+
+
+.signin{
+    border-radius: 100px;
+    width: 100px;
+}
