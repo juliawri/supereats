@@ -1,0 +1,21 @@
+/* choose_restaurant.html */
+
+.restaturant-1-text {
+    width: 350px;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    float: right;
+
+
+  
+}
+
+.restaurant-1-image {
+    width: 500px;
+    height: auto;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    float: left;
+}
