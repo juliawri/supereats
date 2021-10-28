@@ -2,6 +2,8 @@
 
 /** Navigation **/
 
+
+
 /** Banner **/
 
 header.masthead{
@@ -20,7 +22,6 @@ h1{
     width: 250px;
     border-radius: 25px;
 }
-
 
 .signin{
     border-radius: 100px;
