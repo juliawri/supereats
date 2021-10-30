@@ -157,7 +157,7 @@
 
 .burger-1-button {
     align-items: center;
-    padding: 12px 28px;
+    padding: 14px 40px;
     font-size: 15px;
     border-radius: 4px;
 }
@@ -167,7 +167,7 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    background-color: darkgrey;
+    background-color: lightgrey;
     padding: 25px;
 }
 
@@ -186,7 +186,7 @@
 
 .burger-2-button {
     align-items: center;
-    padding: 12px 28px;
+    padding: 14px 40px;
     font-size: 15px;
     border-radius: 4px;
 }
@@ -216,10 +216,68 @@
 
 .burger-3-button {
     align-items: center;
+    padding: 14px 40px;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+/* taco.html */
+
+.taco-container-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: darkgrey;
+    padding: 25px;
+}
+
+.taco-img-1 {
+    width: 350px;
+    height: auto;
+    text-align: center;
+    border: 5px solid darkgreen;
+    border-radius: 20px;
+    float: left;
+}
+
+#taco-2 {
+    width: 100%;
+}
+
+.taco-1-button {
+    align-items: center;
     padding: 12px 28px;
     font-size: 15px;
     border-radius: 4px;
 }
+/*grilled_cheese.html*/
+
+    .grilled-1-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: darkgrey;
+        padding: 25px;
+    }
+    
+    .grilled-img-1 {
+        width: 350px;
+        height: auto;
+        text-align: center;
+        border: 5px solid darkgreen;
+        border-radius: 20px;
+        float: left;
+    }
+    
+    #grilled-2 {
+        width: 100%;
+    }
+    
+    .grilled-1-button {
+        align-items: center;
+        padding: 12px 28px;
+        font-size: 15px;
+        border-radius: 4px;
     /*
     .restaurant-1 {
   display: flex;
